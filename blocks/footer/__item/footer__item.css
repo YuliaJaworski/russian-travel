@@ -1,0 +1,18 @@
+.footer__item {
+  padding-left: 19px;
+}
+
+.footer__item:first-child {
+  padding-left: 0;
+}
+
+@media screen and (max-width: 680px) {
+    .footer__item {
+        padding-left: 0px;
+        padding-top: 38px;
+      }
+    
+    .footer__item:first-child {
+      padding-top: 0;
+    }
+}
