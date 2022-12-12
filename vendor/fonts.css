@@ -8,15 +8,6 @@
          url("../fonts/Inter-Regular.woff") format("woff"),
          url("../fonts/Inter-Regular.ttf") format("truetype");
   }
-  @font-face {
-    font-family: 'Inter';
-    font-style:  italic;
-    font-weight: 400;
-    font-display: swap;
-    src: url("../fonts/Inter-Italic.woff2") format("woff2"),
-         url("../fonts/Inter-Italic.woff") format("woff"),
-         url("../fonts/Inter-Italic.ttf") format("truetype");
-  }
 
   @font-face {
     font-family: 'Inter';
@@ -37,13 +28,3 @@
          url("../fonts/Inter-Black.woff") format("woff"),
          url("../fonts/Inter-Black.ttf") format("truetype");
   }
-  @font-face {
-    font-family: 'Inter';
-    font-style:  italic;
-    font-weight: 900;
-    font-display: swap;
-    src: url("../fonts/Inter-BlackItalic.woff2") format("woff2"),
-         url("../fonts/Inter-BlackItalic.woff") format("woff"),
-         url("../fonts/Inter-BlackItalic.ttf") format("truetype");
-  }
-  
