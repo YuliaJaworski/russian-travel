@@ -6,7 +6,7 @@
   padding-left: 0;
 }
 
-@media screen and (max-width: 680px) {
+@media screen and (max-width: 695px) {
     .footer__item {
         padding-left: 0px;
         padding-top: 38px;
